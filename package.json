@@ -1,0 +1,17 @@
+{
+  "name": "smartcrop-node",
+  "version": "0.1.0",
+  "description": "Node.js Smartcrop.js implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Stuebe",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "~1.2.1",
+    "canvas": "~1.1.3",
+    "smartcrop": "~0.0.0",
+    "underscore": "~1.6.0"
+  }
+}
